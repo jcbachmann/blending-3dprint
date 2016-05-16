@@ -1,6 +1,6 @@
 # blending-3dprint
 3D print models
 
-authors:
+Authors:
 * Christian Autenrieth
 * Marvin Baral
