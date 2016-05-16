@@ -2,5 +2,5 @@
 3D print models
 
 authors:
-*Christian Autenrieth
-*Marvin Baral
+* Christian Autenrieth
+* Marvin Baral
